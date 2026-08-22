@@ -1,0 +1,4 @@
+tellraw "say \"Hello\""
+say 1
+say 2
+say less
